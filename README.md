@@ -1,2 +1,2 @@
 # epochfolio
-It is an internship project.
+An internship project.
